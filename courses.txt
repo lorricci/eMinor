@@ -1,0 +1,57 @@
+PIANO
+  TEACHER DESCRIPTION
+    Hello, I'm Joseph Hoffman and welcome to my piano courses. I'm a qualified teacher and I specialized in teaching Piano to a younger audience. Hopefully you can learn from my lectures, I am excited to bring you to an advanced level starting fresh with every lesson kept simple and easily explained!
+[
+    "In this first part of our piano course, we're going to start from the very basics and give you all the information you need to start reading and playing music. Starting from the musical alphabet, our goal is to be able
+    to read music and learn its theoretical aspects before we even get to our instrument of choice. Once we start to get a grasp of basic music theory, we're gonna start analyzing the fundamental position we need to keep
+    while playing the piano. The third lesson instead takes us again through theoretical concepts regarding measures and tempo. I'm sure this course will give you a good start to not only play the piano, but understand music in general.",
+    "Now that we have a basic understanding of how piano interacts with music theory, we're able to start talking about scales, melodic dictation and a rhythmic dictation, specifically syncopation. Through these three lessons, I aim to give you
+    tools that can help you express your own music and start you on the fundamental concepts of music composition. Keep in mind this course can't naturally cover every single aspect of music composition, but these powerful tools will shape your play
+    and help you better understand new lessons that you'll learn in this course and on your own during your play.",
+    "Keeping our focus on music composition, the last part of our piano course will try to complete the picture we've given you throughout these entire course, giving you access to a more complex approach to music composition.
+    Starting with complex time signatures (in this case 3/8 and 6/8), we're gonna explain how to further increase the complexity of your style of play and your capability in composing more intricated musical structures. The next lectures
+    will also give you examples of arrangements and chord progressions that can give you the tools to understand every other complex aspects of music theory."
+]
+
+BASS
+  TEACHER DESCRIPTION
+    Welcome everyone to my bass courses, I'm Scott and I'll be your bass teacher. With short but content filled video lessons, I'm gonna teach you everything there is to know to master the bass. We are gonna go all the way from basic positioning to more advanced techniques, as well as fundamental composition aspects of your bass play. Enjoy the course and become a true bass player today!
+[
+    "Welcome to our entry level course for bass thought out just for you! We'll try to keep you entertained and interested through the whole course so we'll try to avoid boring you with tons and tons of music theory and instead give you
+    what you truly want, especially when you start approaching your instrument: basics to play the actual instrument. We're going to start with a positioning lesson, getting you comfortable with you bass and showing just how you should position your hands and
+    how you SHOULD NOT position them. We're then gonna start playing some major scales which will be very useful to practice our play while also introducing some music theory aspects. In the last lesson of this course we're instead gonna have a quick talk and what
+    (in my humble opinion) makes a bassist a GREAT bassist so what are you waiting for, start playing now!",
+    "In this second part of our bass course, we're gonna learn pretty much all there is to know about all the fundamental bass techniques. These ones are pretty straight-forward, we're going to start with a fingerstyle focused lesson and talk about how
+    we can improve our speed on the bass, both on the picking and fretting hand. Then we're going to talk about exercises to practice our picking as well as explaining when and why you should use one. Lastly we're gonna take a look at the most loved
+    bass technique which is slap! Probably the most complex technique, it will take time to master it but luckily we're here to give you the right tools for it! Take your bass now and start playing there's lots of practice to do!",
+    "We're almost there making you the pro bassist you always wanted to be! In the last part of our course we're going to explore the music composition environment and how to apply your (by now) great bass technique to form your own music!
+    We're gonna start from a tough topic that makes a lot of bassists uneasy, and that's mastering odd time signatures. Once we put that big obstacle behind us, we have all the tools to finally teach you all the rules to build the perfect bass groove
+    and fully put your bass to use. Lastly, the icing on the cake, we're giving you a little extra technique to truly master movement with your fretting hand. If you reached the end of this course congrats, you're surely a 100% pro bassist now!"
+]
+
+DRUM
+  TEACHER DESCRIPTION
+    Hi I'm Steve Wilson, and I'm going to be your drum teacher for this course. My course is going to explain to you various techniques as well as some important grooves like the shuffle, as well as giving you competence on rhythm subdivisions. Enjoy the course!
+[
+    "Starting with the very basics, we're going to teach you how to play the drums starting fresh! In this first part we're mostly going to become comfortable with our drum kits, starting from the very theory behind how it works and the names you MUST know.
+    After introducing you to what a basic drum kit looks like, we're gonna go through basic stick holding and positioning to place ourselves correctly, only then we're going to start practicing some fills and rhythms taking the 1/16 note partial as core example.",
+    "After gaining confidence in our positioning and basic rhythm playing, it's time to start talking about more intermediate level techniques and rhythmic patterns. We're going to introduce to these recurrent patterns starting from the most popular one: the shuffle groove.
+    Moving on we're going to teach you the drag groove and the four stroke ruff. Both techniques will be a powerful tool in your arsenal to diversify your play and make it more unique. Start this course now and pick up the tools to express your internal groove!",
+    "To conclude our course, we're going to explain some more advanced techniques to polish even more your groove arsenal and give you tools for even more complex rhythms. After talking some difficult patterns, we're going to talk some music theory and learn everything
+    there is to know about rhythmic subdivisions and how they can be used to create our own personal grooves and space out with our inventive!"
+]
+
+GUITAR
+  TEACHER DESCRIPTION
+    Hi I'm Nate Savage and I welcome you to my guitar course! Throughout these classes we're going to learn everything you need to know to develop your own unique guitar style! Starting from the very basics, I'll give you a mix of rhythm and lead guitar concepts to really get a grasp on the guitar and master this instrument.
+[
+    "I just know you're aching to play some guitar so let's skip for now the huge amount of music theory and let's go right to the subject: getting our hands on guitar and learn the fundamentals! This entire course will give you both rhythm and lead lessons, so let's start
+    learning the basics for both. After going through the correct way to position ourselves, we're going to explain some strumming fundamentals introducing some rhythmic rules, then with the help of the extremely important scales (we're gonna go through five essential ones) we're
+    going to introduce some lead aspects to our guitar play.",
+    "Keeping on the 'improving both lead and rhythm guitar' track, in this intermediate level lessons of our course we're going to start explaining some methods and exercises to improve both your speed on your lead play and your rhythm writing complexity.
+    Learning both of these aspects will give you a complete picture of guitar playing so you can not only be eclectic, but also choose on which style you want to specialize your play. As an extra lesson in this part of our course we're giving you some fundamentals
+    about composition, specifically how to improve your melodic writing and how to make your play more 'cheesy', especially when talking about some metal-inspired musicians like some of you out there!",
+    "Welcome to the last part of our guitar course, we hope you enjoyed the ride so far! If you've been practicing a lot and following our classes we're sure you're on the right path to become a pro guitarist. In this last part we're taking you through
+    techniques to master even more your fretboard, give you patterns to expand you composition possibilities and  helpful tips and exercises to develop your sense of timing and feeling to add to your play. All these tools should give you a full picture on how to
+    fully use your instrument at its best, whether you chose to use a more rhythm or lead approach to the guitar. So go on and fully master these concepts and you'll truly be a master at guitar!"
+]

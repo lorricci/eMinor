@@ -1,0 +1,9 @@
+ukulele: #04BF8A
+bass: #18298C
+drum: #F2CF1D
+guitar: #F29F05
+
+input:
+  placeholder: #BDBDBD
+  text: black
+  bg: #F2F2F2

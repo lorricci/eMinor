@@ -1,0 +1,205 @@
+a:hover {
+  text-decoration: none;
+}
+
+#logo {
+  font-family: 'Pacifico';
+  color: white;
+  font-size: 30px;
+}
+
+#login {
+  float: right;
+  width: 20px;
+}
+
+.navbar {
+  padding: 10px 20px;
+  width: 100%;
+  display: flex;
+  position: fixed;
+  z-index: 100;
+  top: 0px;
+}
+
+.carosello {
+  position: relative;
+  margin-top: 65px;
+  text-align: center;
+  width: 100%;
+  display: block;
+  overflow: hidden;
+}
+
+.next-slide {
+  position:absolute;
+  top:0;
+  width:100%;
+  z-index: 0;
+  height: 46vw;
+}
+
+.slide {
+  width: 100%;
+  left: 0;
+  z-index: -100;
+  height: 46vw;
+}
+
+.intro {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: Roboto;
+  font-size: 3vw;
+  color: white;
+  font-weight: 200;
+  z-index: 1;
+}
+
+.intro a.trial {
+  background: white;
+}
+
+.intro a, .intro span{
+  font-size: 2vw;
+}
+
+#dot-container {
+  position: absolute;
+  bottom: 15px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+
+.dot {
+  height: 10px;
+  width: 10px;
+  display: inline-block;
+  background-color: #dbdbdb;
+  border-radius: 100%;
+  margin: 1px 5px;
+  /*cursor: pointer;*/
+}
+
+/*.dot:hover {
+  background-color: #a1a1a1;
+}*/
+
+.over-slide {
+  position: absolute;
+  top:0px;
+  left: 0px;
+  height: 100%;
+  padding: 30px;
+}
+
+
+h1 {
+  font-weight: 400;
+  font-size: 3vw;
+}
+
+.piano h1 {
+  color: #04BF8A;
+}
+
+.bass h1 {
+  color: #18298C;
+}
+
+.drum h1 {
+  color: #F2CF1D;
+}
+
+.guitar h1 {
+  color: #F29F05;
+}
+
+#descriptionContainer {
+  position: relative;
+  font-family: Roboto;
+  display: block;
+  margin: 5% 15%;
+  font-size: 1.9vw;
+  overflow: hidden;
+}
+
+#descriptionContainer .section {
+  width: 60%;
+  margin: 7% 0%;
+  transition: 0.4s;
+}
+
+#descriptionContainer .section:hover {
+  width: 65%;
+}
+
+.pallino {
+  position:absolute;
+  top:50%;
+  transform: translate(0%, -50%);
+  right:7%;
+  width: 50%;
+}
+
+#descriptionContainer .dx {
+  position: relative;
+  float: right;
+}
+
+#descriptionContainer .sx {
+  position: relative;
+  float: left;
+}
+
+#descriptionContainer p img {
+  float: right;
+  width: 35%;
+}
+
+#descriptionContainer a {
+  color: white;
+}
+
+.piano a {
+  background-color: #04BF8A;
+}
+
+.bass a {
+  background-color: #18298C;
+}
+
+.drum a {
+  background-color: #F2CF1D;
+}
+
+.guitar a {
+  background-color: #F29F05;
+}
+
+.trial {
+  font-weight: 500;
+  padding: 2px 10px;
+}
+
+.bg-colored {
+  background-color: #04BF8A;
+}
+
+.colored {
+  color: #04BF8A;
+}
+
+footer {
+  position: relative;
+  height: 200px;
+  width: 100%;
+  display: block;
+  bottom: 0;
+  text-align: center;
+  padding: 50px;
+  color: white;
+}

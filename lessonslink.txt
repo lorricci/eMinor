@@ -1,0 +1,71 @@
+A prescindere dal link, la struttura dell'iframe è questa:
+<iframe width="1280" height="720" src="LINK" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I link vanno nella voce src del tag sopra
+PIANO LESSONS
+  BEGINNER LEVEL
+    1) https://www.youtube.com/embed/zV1x4-1Owsw?list=PLOpWFi5W-47oMUgHx3S0gWOAGbWuDwHPe
+    2) https://www.youtube.com/embed/BmTcXlfT1OE?list=PLOpWFi5W-47oMUgHx3S0gWOAGbWuDwHPe
+    3) https://www.youtube.com/embed/jhZAzUB-1Lo?list=PLOpWFi5W-47oOXp7ZiYXP5o9Kjj7gi3Vh
+  INTERMEDIATE LEVEL
+    1) https://www.youtube.com/embed/aK10Q6abB38?list=PLOpWFi5W-47p9WwgnjGoZUNKE9wquJHIX
+    2) https://www.youtube.com/embed/qyBdseuX8mo?list=PLOpWFi5W-47qoAkEcgH0OLoVgI2VQ6T_I
+    3) https://www.youtube.com/embed/OfrymUxhlT8?list=PLOpWFi5W-47pb0LgfQH3Pbfn-zybBq9Zj
+  ADVANCED LEVEL
+    1) https://www.youtube.com/embed/sfFoCIeFFDQ?list=PLOpWFi5W-47oCGp4Uj6YuEOgjDs3NQm-i
+    2) https://www.youtube.com/embed/HCVHODUK_AQ?list=PLOpWFi5W-47pIhkiSJQsI0Q_HcQ-cx1cL
+    3) https://www.youtube.com/embed/a540JkO1P64?list=PLOpWFi5W-47r7w72E_w0W6y7N-EKi1dFz
+
+BASS LESSONS
+  BEGINNER LEVEL
+    1) https://www.youtube.com/embed/NsDbh0buYHE?list=PLF1FD1418DFA48532
+    2) https://www.youtube.com/embed/2bvgAbWRdIA?list=PLF1FD1418DFA48532
+    3) https://www.youtube.com/embed/Gn_takDhwfg?list=PLF1FD1418DFA48532
+  INTERMEDIATE LEVEL
+    1) https://www.youtube.com/embed/mxG0jm-dn5Y?list=PL89184C61EF212C3B
+    2) https://www.youtube.com/embed/tu7FlXKGXdY?list=PL89184C61EF212C3B
+    3) https://www.youtube.com/embed/W70XkdHSQPA?list=PL89184C61EF212C3B
+  ADVANCED LEVEL
+    1) https://www.youtube.com/embed/ianWgqT9pRI?list=PLq5Wss5r1Cvu0VpWGIAL--LK1dbLoJgPC
+    2) https://www.youtube.com/embed/NI-OEoWWil8?list=PL46BC3C560E3904B0
+    3) https://www.youtube.com/embed/XIEQbCpIkU0?list=PL46BC3C560E3904B0
+
+DRUM LESSONS
+  BEGINNER LEVEL
+    1) https://www.youtube.com/embed/HdiiXOkomKo?list=PLImrzCNnL5PkejUOlF0TX4rx7LZYaXjyD
+    2) https://www.youtube.com/embed/O9mt60NNbWA?list=PLImrzCNnL5PkejUOlF0TX4rx7LZYaXjyD
+    3) https://www.youtube.com/embed/RnsRi6GkTZM?list=PLImrzCNnL5PkejUOlF0TX4rx7LZYaXjyD
+  INTERMEDIATE LEVEL
+    1) https://www.youtube.com/embed/NC1Dl2WukI0?list=PLImrzCNnL5PkRCBWmb2UyrsONC1y_bvA2
+    2) https://www.youtube.com/embed/j6rAb15Uods?list=PLImrzCNnL5PkRCBWmb2UyrsONC1y_bvA2
+    3) https://www.youtube.com/embed/gdtzxlN5DXQ?list=PLImrzCNnL5PkRCBWmb2UyrsONC1y_bvA2
+  ADVANCED LEVEL
+    1) https://www.youtube.com/embed/MHH-xXRJaBE?list=PLImrzCNnL5PmzgXAdSa8fMSAFkvU61u7u
+    2) https://www.youtube.com/embed/_LTdXKvDIMw?list=PLImrzCNnL5PmzgXAdSa8fMSAFkvU61u7u
+    3) https://www.youtube.com/embed/PVj1B2YUUG4?list=PLImrzCNnL5PmzgXAdSa8fMSAFkvU61u7u
+
+GUITAR LESSONS
+  BEGINNER LEVEL
+    1) https://www.youtube.com/embed/itSLKS8UBd8?list=PLiyMO_9U8g1BNzo7ZoXwKg2Pqt5chP6CT
+    2) https://www.youtube.com/embed/PAF39Q8Xc2Y?list=PLiyMO_9U8g1BNzo7ZoXwKg2Pqt5chP6CT
+    3) https://www.youtube.com/embed/FAJdx45MfJQ?list=PLiyMO_9U8g1AKuovoOJ0EnEgK0XGi0q4c
+  INTERMEDIATE LEVEL
+    1) https://www.youtube.com/embed/A_IvPVgB5d4?list=PLiyMO_9U8g1AKuovoOJ0EnEgK0XGi0q4c
+    2) https://www.youtube.com/embed/EDzu848RGSQ?list=PLiyMO_9U8g1BZmURyVO49rMMFUYAafydP
+    3) https://www.youtube.com/embed/OFPEAWjAaj0?list=PLiyMO_9U8g1DeUNntjM6IPOHNJA5R3gSJ
+  ADVANCED LEVEL
+    1) https://www.youtube.com/embed/GG6Nb6lQFbg?list=PLiyMO_9U8g1DeUNntjM6IPOHNJA5R3gSJ
+    2) https://www.youtube.com/embed/uyoBhgwYsqA?list=PLiyMO_9U8g1DeUNntjM6IPOHNJA5R3gSJ
+    3) https://www.youtube.com/embed/zjL6EAYszAI?list=PLiyMO_9U8g1BZmURyVO49rMMFUYAafydP
+
+
+
+
+{"3.3 Arabesque": "a540JkO1P64?list=PLOpWFi5W-47r7w72E_w0W6y7N-EKi1dFz", "2.2 Syncopation": "qyBdseuX8mo?list=PLOpWFi5W-47qoAkEcgH0OLoVgI2VQ6T_I", "1.2 Piano Posture": "BmTcXlfT1OE?list=PLOpWFi5W-47oMUgHx3S0gWOAGbWuDwHPe", "1.1 Musical Alphabet": "zV1x4-1Owsw?list=PLOpWFi5W-47oMUgHx3S0gWOAGbWuDwHPe", "2.3 Melodic Dictation": "OfrymUxhlT8?list=PLOpWFi5W-47pb0LgfQH3Pbfn-zybBq9Zj", "2.1 D-Flat Major Pentascale": "aK10Q6abB38?list=PLOpWFi5W-47p9WwgnjGoZUNKE9wquJHIX", "3.2 Diatonic Chord Progressions": "HCVHODUK_AQ?list=PLOpWFi5W-47pIhkiSJQsI0Q_HcQ-cx1cL", "1.3 Time Signature, Measures and Barlines": "jhZAzUB-1Lo?list=PLOpWFi5W-47oOXp7ZiYXP5o9Kjj7gi3Vh", "3.1 Complex Time Signatures (3/8 and 6/8)": "sfFoCIeFFDQ?list=PLOpWFi5W-47oCGp4Uj6YuEOgjDs3NQm-i"}
+
+{"1.2 The Major Scale": "2bvgAbWRdIA?list=PLF1FD1418DFA48532", "1.1 Hands Positioning": "NsDbh0buYHE?list=PLF1FD1418DFA48532", "2.2 Bass Picking Exercises": "tu7FlXKGXdY?list=PL89184C61EF212C3B", "1.3 What Makes A Great Bassist": "Gn_takDhwfg?list=PLF1FD1418DFA48532", "2.3 First Steps To Master Slapping": "W70XkdHSQPA?list=PL89184C61EF212C3B", "3.2 Structuring The Perfect Groove": "NI-OEoWWil8?list=PL46BC3C560E3904B0", "3.1 Making Odd Time Signatures Easy": "ianWgqT9pRI?list=PLq5Wss5r1Cvu0VpWGIAL--LK1dbLoJgPC", "2.1 Building Speed On Fingerstyle Bass": "mxG0jm-dn5Y?list=PL89184C61EF212C3B", "3.3 Master Your Fretboard: 4 + 2 Positioning": "XIEQbCpIkU0?list=PL46BC3C560E3904B0"}
+
+{"2.3 Four Stroke Ruff": "gdtzxlN5DXQ?list=PLImrzCNnL5PkRCBWmb2UyrsONC1y_bvA2", "2.1 The Shuffle Groove": "NC1Dl2WukI0?list=PLImrzCNnL5PkRCBWmb2UyrsONC1y_bvA2", "2.2 The Drag Technique": "j6rAb15Uods?list=PLImrzCNnL5PkRCBWmb2UyrsONC1y_bvA2", "3.2 The Five Stroke Roll": "_LTdXKvDIMw?list=PLImrzCNnL5PmzgXAdSa8fMSAFkvU61u7u", "3.3 Rhythmic Sub-divisions": "PVj1B2YUUG4?list=PLImrzCNnL5PmzgXAdSa8fMSAFkvU61u7u", "1.1 Introduction To The Drum Kit": "HdiiXOkomKo?list=PLImrzCNnL5PkejUOlF0TX4rx7LZYaXjyD", "1.2 Stick Technique: An Introduction": "O9mt60NNbWA?list=PLImrzCNnL5PkejUOlF0TX4rx7LZYaXjyD", "1.3 Fills Practice: 1/16 Note Partial": "RnsRi6GkTZM?list=PLImrzCNnL5PkejUOlF0TX4rx7LZYaXjyD", "3.1 Single, Double And Paradiddle-diddle": "MHH-xXRJaBE?list=PLImrzCNnL5PmzgXAdSa8fMSAFkvU61u7u"}
+
+
+{"1.1 General Positioning": "itSLKS8UBd8?list=PLiyMO_9U8g1BNzo7ZoXwKg2Pqt5chP6CT", "1.3 Five Essential Scales": "FAJdx45MfJQ?list=PLiyMO_9U8g1AKuovoOJ0EnEgK0XGi0q4c", "1.2 Strumming Fundamentals": "PAF39Q8Xc2Y?list=PLiyMO_9U8g1BNzo7ZoXwKg2Pqt5chP6CT", "3.3 Developing Timing And Feeling": "zjL6EAYszAI?list=PLiyMO_9U8g1BZmURyVO49rMMFUYAafydP", "3.2 Seven Essential Scale Patterns": "uyoBhgwYsqA?list=PLiyMO_9U8g1DeUNntjM6IPOHNJA5R3gSJ", "3.1 Doubling Your Fretboard Coverage": "GG6Nb6lQFbg?list=PLiyMO_9U8g1DeUNntjM6IPOHNJA5R3gSJ", "2.1 Building Speed On The Lead Guitar": "A_IvPVgB5d4?list=PLiyMO_9U8g1AKuovoOJ0EnEgK0XGi0q4c", "2.3 Making Your Lead Play More Melodic": "OFPEAWjAaj0?list=PLiyMO_9U8g1DeUNntjM6IPOHNJA5R3gSJ", "2.2 Strumming Patterns For Rhythm Guitar": "EDzu848RGSQ?list=PLiyMO_9U8g1BZmURyVO49rMMFUYAafydP"}
